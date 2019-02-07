@@ -11,7 +11,15 @@
 		</p>
 	</div>
 
+<div>
+	Test sur la nouvelle branche
+</div>
 
+<div>
+	<p>
+		Lorem ipsum
+	</p>
+</div>
 
 </body>
 </html>
